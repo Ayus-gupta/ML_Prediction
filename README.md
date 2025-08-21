@@ -13,5 +13,3 @@ This repository contains my Kaggle notebook, where I build and analyze a machine
 - Session-level behavior transformation into user-level features  
 - Multiple ML models tested and compared  
 - Prediction of customer purchase value  
-
-## 📂 Repository Structure  
